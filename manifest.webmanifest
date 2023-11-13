@@ -1,0 +1,32 @@
+{
+    "theme_color": "#fefefe",
+    "background_color": "#ffefe0",
+    "display": "fullscreen",
+    "scope": "/",
+    "start_url": "/untitled-1.html",
+    "name": "klick game",
+    "short_name": "klick game",
+    "description": "ein klick game mit Highscore ",
+    "icons": [
+        { 
+            "src": "/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/icon-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "/icon-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        } 
+    ]
+}  
